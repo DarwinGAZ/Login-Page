@@ -2,6 +2,9 @@
 
 Este projeto é uma página de login com um design moderno e simples. A página apresenta campos para o login e senha, além de opções como "Salvar Login" e "Esqueceu sua senha?", com animações e estilos em CSS.
 
+## 🚀 Acesse o projeto online
+
+🔗 [Clique aqui para testar](https://darwingaz.github.io/Password-Strenght/)
 
 
 ## Funcionalidades ✨
