@@ -18,4 +18,4 @@ Este projeto é uma página de login com um design moderno e simples. A página 
 1. **Clone o Repositório** 
    Para começar, clone este repositório para sua máquina:
    ```bash
-   git clone https://github.com/<seu-usuario>/Login-Page.git
+   git clone https://github.com/DarwinGAZ/Login-Page.git
