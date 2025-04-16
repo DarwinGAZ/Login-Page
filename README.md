@@ -4,7 +4,7 @@ Este projeto é uma página de login com um design moderno e simples. A página 
 
 ## 🚀 Acesse o projeto online
 
-🔗 [Clique aqui para testar](https://darwingaz.github.io/Password-Strenght/)
+🔗 [Clique aqui para testar](https://darwingaz.github.io/Login-Page/)
 
 
 ## Funcionalidades ✨
